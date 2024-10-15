@@ -4,6 +4,9 @@
 - cmd + V = paste
 - cmd + B = bold
 - cmd + I = italics
+- cmd + A = select all
+- cmd + F = find
+- cmd + O = open
 
 
 
