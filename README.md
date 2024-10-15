@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @ckrizanc
-- 👀 I’m interested in ...
 # Računalniški praktikum
 ## Bližnjice
 - cmd + C = copy
