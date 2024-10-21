@@ -7,6 +7,7 @@
 - cmd + A = select all
 - cmd + F = find
 - cmd + O = open
+- cmd + shift + K = delete line
 
 
 
